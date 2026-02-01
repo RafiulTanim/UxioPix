@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0099ff&height=200&section=header&text=UxioPix%20Dev&fontSize=70&animation=fadeIn" width="100%" />
+  <img src="[https://capsule-render.vercel.app/render?type=waving&color=0099ff&height=200&section=header&text=UxioPix%20Dev&fontSize=70&animation=fadeIn](https://rafiultanim.github.io/UxioPix/Uxiopix.png)" width="100%" />
 
   # 🌐 Website Development by UxioPix
   **Clean • Fast • Secure • Responsive**
