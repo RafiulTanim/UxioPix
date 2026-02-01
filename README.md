@@ -89,7 +89,7 @@ Let's discuss how we can bring your vision to life securely.
 | Platform | Contact Link | Response Time |
 | :--- | :--- | :--- |
 | 📧 **Email** | [**UxioPix@outlook.com**](mailto:UxioPix@outlook.com) | < 24 Hours |
-| 🐙 **GitHub** | [**Follow @UxioPix**](https://github.com/UxioPix) | Instant |
+| 🐙 **UxioPix** | [**Follow @UxioPix**](https://Instagram/uxiopix) | Instant |
 
 </div>
 
